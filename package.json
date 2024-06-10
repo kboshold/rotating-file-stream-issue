@@ -1,0 +1,15 @@
+{
+  "name": "rotating-file-stream-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "rotating-file-stream": "3.2.2"
+  }
+}
